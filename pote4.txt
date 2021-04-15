@@ -1,0 +1,8 @@
+Lokomotiv_Moscovo (RUS) LokMosc_Stadium
+Marselha (FRA) Mars_Stadium
+Club_Brugge (BEL) Brug_Stadium
+Mönchengladbach (GER) Monch_Stadium
+İstanbul_Başakşehir (TUR) Istanbul_Stadium
+Midtjylland (DEN) Midtjylland Stadium
+Rennes (FRA) Rennes_Stadium
+Ferencváros (HUN) Ferencváros_Stadium

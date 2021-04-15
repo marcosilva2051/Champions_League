@@ -1,0 +1,8 @@
+Barcelona (ESP) Barcelona_Stadium
+Atlético_Madrid (ESP) AtlMadrid_Stadium
+Manchester_City (ENG) MCity_Stadium
+Manchester_United (ENG) MUnited_Stadium
+Shakhtar_Donetsk (UKR) Shakthar_Stadium
+Dortmund (GER) Dortmund_Stadium
+Chelsea (ENG) Chelsea_Stadium
+Ajax (NED) Ajax_Stadium

@@ -1,0 +1,8 @@
+Dynamo_Kiev (UKR) Dkiev_Stadium
+Salzburgo (AUT) Salzburg_Stadium
+RB_Leipzig (GER) RbLeipzig_Stadium
+Internazionale (ITA) Inter_Stadium
+Olympiacos (GRE) Olymp_Stadium
+Lázio (ITA) Laz_Stadium
+Krasnodar (RUS) Krasn_Stadium
+Atalanta (ITA) Atalanta_Stadium

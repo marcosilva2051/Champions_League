@@ -1,0 +1,8 @@
+Bayern (GER) Bayern_Stadium
+Sevilha (ESP) Sevilla_Stadium
+Real_Madrid (ESP) RealM_Stadium
+Liverpool (ENG) Liverpool_Stadium
+Juventus (ITA) Juventus_Stadium
+Paris (FRA) Paris_Stadium
+Zenit (RUS) Zenit_Stadium
+Porto (POR) Porto_Stadium
